@@ -1,0 +1,14 @@
+C:\Users\MkaGodh\Desktop\Обучение\ДЗ\01.01.24\Task_03\obj\Debug\net8.0\Task_03.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MkaGodh\Desktop\Обучение\ДЗ\01.01.24\Task_03\obj\Debug\net8.0\Task_03.AssemblyInfoInputs.cache
+C:\Users\MkaGodh\Desktop\Обучение\ДЗ\01.01.24\Task_03\obj\Debug\net8.0\Task_03.AssemblyInfo.cs
+C:\Users\MkaGodh\Desktop\Обучение\ДЗ\01.01.24\Task_03\obj\Debug\net8.0\Task_03.csproj.CoreCompileInputs.cache
+C:\Users\MkaGodh\Desktop\Обучение\ДЗ\01.01.24\Task_03\bin\Debug\net8.0\Task_03.exe
+C:\Users\MkaGodh\Desktop\Обучение\ДЗ\01.01.24\Task_03\bin\Debug\net8.0\Task_03.deps.json
+C:\Users\MkaGodh\Desktop\Обучение\ДЗ\01.01.24\Task_03\bin\Debug\net8.0\Task_03.runtimeconfig.json
+C:\Users\MkaGodh\Desktop\Обучение\ДЗ\01.01.24\Task_03\bin\Debug\net8.0\Task_03.dll
+C:\Users\MkaGodh\Desktop\Обучение\ДЗ\01.01.24\Task_03\bin\Debug\net8.0\Task_03.pdb
+C:\Users\MkaGodh\Desktop\Обучение\ДЗ\01.01.24\Task_03\obj\Debug\net8.0\Task_03.dll
+C:\Users\MkaGodh\Desktop\Обучение\ДЗ\01.01.24\Task_03\obj\Debug\net8.0\refint\Task_03.dll
+C:\Users\MkaGodh\Desktop\Обучение\ДЗ\01.01.24\Task_03\obj\Debug\net8.0\Task_03.pdb
+C:\Users\MkaGodh\Desktop\Обучение\ДЗ\01.01.24\Task_03\obj\Debug\net8.0\Task_03.genruntimeconfig.cache
+C:\Users\MkaGodh\Desktop\Обучение\ДЗ\01.01.24\Task_03\obj\Debug\net8.0\ref\Task_03.dll
